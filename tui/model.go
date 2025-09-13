@@ -6,39 +6,21 @@ import (
 )
 
 type Model struct {
-	Keys []help.KeyMap
-	Help help.Model
-
-	Screen int
-
+	Help    help.Model
+	Screen  int
 	Screens []Screen
 
-	Amount  textinput.Model
-	MccCode textinput.Model
+	textInputs []*textinput.Model
 }
 
 func CreateModel() Model {
 	m := Model{
-		Screen:  0,
-		Amount:  CreateTextInput("Amount", 128),
-		MccCode: CreateTextInput("MCC code (optional)", 4),
-		Keys: []help.KeyMap{
-			KeysExpensionScreen,
-		},
+		Screen: 0,
 		Screens: []Screen{
-			ExpenseScreen{},
+			NewTransactionScreen(),
 		},
 		Help: help.New(),
 	}
 
 	return m
-}
-
-func DefaultInput() textinput.Model {
-	t := textinput.New()
-	t.Placeholder = "Placeholder"
-	t.CharLimit = 128
-	t.Width = 30
-
-	return t
 }

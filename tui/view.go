@@ -3,8 +3,8 @@ package tui
 import "fmt"
 
 func (m Model) View() string {
-	view := m.Screens[m.Screen].View()
-	help := m.Help.View(m.Keys[m.Screen])
+	view := m.GetActiveScreen().View()
+	help := m.Help.View(m.GetActiveScreen().Keys())
 
 	return fmt.Sprintf("%s\n\n%s", view, help)
 }

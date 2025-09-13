@@ -2,28 +2,28 @@ package tui
 
 import "github.com/charmbracelet/bubbles/key"
 
-type KeyMapExensionScreen struct {
+type KeyMapTransactionScreen struct {
 	Up   key.Binding
 	Down key.Binding
 	Quit key.Binding
 }
 
-var KeysExpensionScreen = KeyMapExensionScreen{
+var KeysTransactionScreen = KeyMapTransactionScreen{
 	Up: key.NewBinding(
-		key.WithKeys("up", "k"),
-		key.WithHelp("↑/k", "move up"),
+		key.WithKeys("up"),
+		key.WithHelp("↑", "up"),
 	),
 	Down: key.NewBinding(
-		key.WithKeys("down", "j"),
-		key.WithHelp("↓/j", "move down"),
+		key.WithKeys("down"),
+		key.WithHelp("↓", "down"),
 	),
 	Quit: key.NewBinding(
-		key.WithKeys("q", "ctrl+c"),
-		key.WithHelp("q", "quit"),
+		key.WithKeys("ctrl+q", "ctrl+c"),
+		key.WithHelp("ctrl+q", "quit"),
 	),
 }
 
-func (k KeyMapExensionScreen) FullHelp() [][]key.Binding {
+func (k KeyMapTransactionScreen) FullHelp() [][]key.Binding {
 	return [][]key.Binding{
 		{
 			k.Up, k.Down,
@@ -34,7 +34,7 @@ func (k KeyMapExensionScreen) FullHelp() [][]key.Binding {
 	}
 }
 
-func (k KeyMapExensionScreen) ShortHelp() []key.Binding {
+func (k KeyMapTransactionScreen) ShortHelp() []key.Binding {
 	return []key.Binding{
 		k.Up, k.Down, k.Quit,
 	}
