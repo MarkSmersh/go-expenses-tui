@@ -6,11 +6,6 @@ import (
 )
 
 func (m Model) Init() tea.Cmd {
-	for _, s := range m.Screens {
-		for _, ti := range s.GetTextInputs() {
-			m.AddTextInput(ti)
-		}
-	}
-
+	m.Logger.Logf("INIT")
 	return textinput.Blink
 }

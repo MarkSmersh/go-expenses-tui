@@ -47,27 +47,14 @@ func (s TransactionScreen) View() string {
 
 	view += fmt.Sprintf("Current: %d", s.focused)
 
-	s.amount.Blur()
-	s.transactionType.Blur()
-	s.comment.Blur()
-
-	switch s.focused {
-	case 0:
-		s.amount.Focus()
-	case 1:
-		s.transactionType.Focus()
-	case 2:
-		s.comment.Focus()
-	}
-
 	view += "\n\n" + s.amount.View()
 	view += "\n\n" + s.transactionType.View()
 	view += "\n\n" + s.comment.View()
 
 	if s.focused == 3 {
-		view += "\n\n[_Confirm_]"
-	} else {
 		view += "\n\n[ Confirm ]"
+	} else {
+		view += "\n\n  Confirm  "
 	}
 
 	return view
@@ -88,7 +75,7 @@ func (s *TransactionScreen) Focus(i int) {
 }
 
 func (s *TransactionScreen) Update(m *Model, msg tea.Msg) tea.Cmd {
-	var cmd tea.Cmd = textinput.Blink
+	var cmd tea.Cmd = nil
 	k := s.keys
 
 	switch msg := msg.(type) {
@@ -100,8 +87,19 @@ func (s *TransactionScreen) Update(m *Model, msg tea.Msg) tea.Cmd {
 			s.Focus(s.Focused() + 1)
 		case key.Matches(msg, k.Up):
 			s.Focus(s.Focused() - 1)
-		case key.Matches(msg, k.Up):
-			s.Focus(s.Focused() - 1)
+		}
+
+		s.amount.Blur()
+		s.transactionType.Blur()
+		s.comment.Blur()
+
+		switch s.focused {
+		case 0:
+			s.amount.Focus()
+		case 1:
+			s.transactionType.Focus()
+		case 2:
+			s.comment.Focus()
 		}
 	}
 

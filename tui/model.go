@@ -9,8 +9,9 @@ type Model struct {
 	Help    help.Model
 	Screen  int
 	Screens []Screen
+	Logger  Logger
 
-	textInputs []*textinput.Model
+	TextInputs []*textinput.Model
 }
 
 func CreateModel() Model {
@@ -19,7 +20,9 @@ func CreateModel() Model {
 		Screens: []Screen{
 			NewTransactionScreen(),
 		},
-		Help: help.New(),
+		Logger:     Logger{File: "log"},
+		Help:       help.New(),
+		TextInputs: []*textinput.Model{},
 	}
 
 	return m

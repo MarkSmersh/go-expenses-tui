@@ -1,0 +1,606 @@
+SCREEN 1
+TEXT INPUT 1
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 0
+TEXT INPUT 2
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 1
+TEXT INPUT 3
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 2
+INIT
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {159 42}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {0 2}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {0 2}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: z
+inputs: 3
+textinput Amount, value z, focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: ctrl+q
+inputs: 3
+textinput Amount, value , focus true
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+SCREEN 1
+TEXT INPUT 1
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 0
+TEXT INPUT 2
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 1
+TEXT INPUT 3
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 2
+INIT
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {159 42}
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: s
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: a
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: as
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: a
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: s
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: up
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: s
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: a
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: d
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: enter
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: enter
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: backspace
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: backspace
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: left
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: left
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: left
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: right
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: left
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: right
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: left
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: up
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: ctrl+q
+inputs: 3
+textinput Amount, value , focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+SCREEN 1
+TEXT INPUT 1
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 0
+TEXT INPUT 2
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 1
+TEXT INPUT 3
+ADDED TEXTINPUT. CURRENT COUNT OF TEXTINPUTS IS 2
+INIT
+INPUTS COUNT: 3
+MSG: {}
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: {159 42}
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: up
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: up
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: up
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: down
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
+INPUTS COUNT: 3
+MSG: ctrl+q
+inputs: 3
+textinput Amount, value 123, focus false
+textinput Type of expense, value , focus false
+textinput Comment, value test, focus false
