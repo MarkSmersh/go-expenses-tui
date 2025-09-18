@@ -1,6 +1,8 @@
 package tui
 
 import (
+	"github.com/MarkSmersh/go-expenses-tui.git/tui/modules"
+	"github.com/MarkSmersh/go-expenses-tui.git/tui/screens"
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/textinput"
 )
@@ -8,8 +10,8 @@ import (
 type Model struct {
 	Help    help.Model
 	Screen  int
-	Screens []Screen
-	Logger  Logger
+	Screens []modules.Screen
+	Logger  modules.Logger
 
 	TextInputs []*textinput.Model
 }
@@ -17,10 +19,10 @@ type Model struct {
 func CreateModel() Model {
 	m := Model{
 		Screen: 0,
-		Screens: []Screen{
-			NewTransactionScreen(),
+		Screens: []modules.Screen{
+			screens.NewTransactionScreen(),
 		},
-		Logger:     Logger{File: "log"},
+		Logger:     modules.Logger{File: "log"},
 		Help:       help.New(),
 		TextInputs: []*textinput.Model{},
 	}

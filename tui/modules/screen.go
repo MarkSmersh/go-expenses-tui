@@ -1,4 +1,4 @@
-package tui
+package modules
 
 import (
 	"github.com/charmbracelet/bubbles/help"
@@ -8,14 +8,7 @@ import (
 
 type Screen interface {
 	View() string
-	// Init() Screen
-	Focus(int)
-	Focused() int
-	Update(*Model, tea.Msg) tea.Cmd
+	Update(tea.Msg) tea.Cmd
 	Keys() help.KeyMap
 	GetTextInputs() []*textinput.Model
-}
-
-func (m Model) GetActiveScreen() Screen {
-	return m.Screens[m.Screen]
 }

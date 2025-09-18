@@ -1,11 +1,12 @@
-package tui
+package screens
 
 import "github.com/charmbracelet/bubbles/key"
 
 type KeyMapTransactionScreen struct {
-	Up   key.Binding
-	Down key.Binding
-	Quit key.Binding
+	Up       key.Binding
+	Down     key.Binding
+	Quit     key.Binding
+	Activate key.Binding
 }
 
 var KeysTransactionScreen = KeyMapTransactionScreen{
@@ -20,6 +21,10 @@ var KeysTransactionScreen = KeyMapTransactionScreen{
 	Quit: key.NewBinding(
 		key.WithKeys("ctrl+q", "ctrl+c"),
 		key.WithHelp("ctrl+q", "quit"),
+	),
+	Activate: key.NewBinding(
+		key.WithKeys("enter"),
+		key.WithHelp("enter", "activate"),
 	),
 }
 

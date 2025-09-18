@@ -6,6 +6,5 @@ import (
 )
 
 func (m Model) Init() tea.Cmd {
-	m.Logger.Logf("INIT")
 	return textinput.Blink
 }
