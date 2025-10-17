@@ -45,7 +45,7 @@ func NewTransactionScreen() *TransactionScreen {
 
 	var amount, transactionType, comment, confirm modules.Focusable
 
-	// TODO: add to FocusManager a method that will create a clickable textinput from tea's input
+	// TODO: add to the FocusManager a method that will create a clickable textinput from tea's input
 	clickableAmount := modules.NewClickableTextInput(&s.amount)
 	clickabletransactionType := modules.NewClickableTextInput(&s.transactionType)
 	clickableComment := modules.NewClickableTextInput(&s.comment)

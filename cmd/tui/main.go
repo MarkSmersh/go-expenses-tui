@@ -1,6 +1,7 @@
 package main
 
 // A simple program that counts down from 5 and then exits.
+// actually yeah
 
 import (
 	"github.com/MarkSmersh/go-expenses-tui.git/tui"

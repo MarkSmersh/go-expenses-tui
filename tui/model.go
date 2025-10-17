@@ -8,11 +8,10 @@ import (
 )
 
 type Model struct {
-	Help    help.Model
-	Screen  int
-	Screens []modules.Screen
-	Logger  modules.Logger
-
+	Help       help.Model
+	Screen     int
+	Screens    []modules.Screen
+	Logger     modules.Logger
 	TextInputs []*textinput.Model
 }
 
