@@ -46,6 +46,52 @@ func NewTransaction(conn *pgx.Conn) Transaction {
 	}
 }
 
+type TransactionType struct {
+	ID   int    `json:"id"`
+	Name string `json:"name"`
+}
+
+func (t Transaction) GetTransactionTypes() ([]TransactionType, components.ApiError) {
+
+	transactionTypes := []TransactionType{}
+
+	rows, err := t.conn.Query(
+		context.Background(),
+		"SELECT id, name FROM transaction_types",
+	)
+
+	for i := 0; ; i++ {
+		if !rows.Next() {
+			break
+		}
+
+		var id int
+		var name string
+
+		err := rows.Scan(&id, &name)
+
+		if err != nil {
+			slog.Error(err.Error())
+			return transactionTypes, components.InternalServerError()
+		}
+
+		transactionTypes = append(
+			transactionTypes,
+			TransactionType{
+				ID:   id,
+				Name: name,
+			},
+		)
+	}
+
+	if err != nil {
+		slog.Error(err.Error())
+		return transactionTypes, components.InternalServerError()
+	}
+
+	return transactionTypes, nil
+}
+
 func (t Transaction) Create(amount int, comment string, transactionType int, username string) components.ApiError {
 	_, err := t.conn.Exec(
 		context.Background(),

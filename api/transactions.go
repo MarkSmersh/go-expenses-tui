@@ -1,11 +1,12 @@
 package api
 
 import (
-	"io"
+	"encoding/json"
 	"net/http"
 	"strconv"
 	"strings"
 
+	"github.com/MarkSmersh/go-expenses-tui.git/api/components"
 	"github.com/MarkSmersh/go-expenses-tui.git/api/models"
 )
 
@@ -14,7 +15,7 @@ func (s *Server) TransactionsRouter(w http.ResponseWriter, r *http.Request) {
 
 	if err != nil {
 		w.WriteHeader(401)
-		w.Write([]byte("Unathenticated"))
+		w.Write([]byte("Unauthorized"))
 		return
 	}
 
@@ -45,8 +46,26 @@ func (s *Server) TransactionsRouter(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
+// Get transaction types within their ids and names
 func (s *Server) TransactionsGet(w http.ResponseWriter, r *http.Request, username string) {
-	io.WriteString(w, "You're my special")
+	t := models.NewTransaction(s.Conn)
+	transactionTypes, err := t.GetTransactionTypes()
+
+	if err != nil {
+		w.WriteHeader(err.Code())
+		w.Write(err.ErrorBytes())
+		return
+	}
+
+	jsonTransactionTypes, jsonerr := json.Marshal(transactionTypes)
+
+	if jsonerr != nil {
+		w.WriteHeader(500)
+		w.Write(components.InternalServerError().ErrorBytes())
+	}
+
+	w.WriteHeader(200)
+	w.Write(jsonTransactionTypes)
 }
 
 func (s *Server) TransactionsPut(w http.ResponseWriter, r *http.Request, username string) {

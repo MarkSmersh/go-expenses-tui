@@ -1,0 +1,73 @@
+Unable to get an server
+Unable to get an server
+Key not found
+Key not found
+Trying to access transaction types from Transaction Screen. Key not found
+TYPES: []
+SUGGESTIONS: []
+Unable to get an server
+Unable to get an server
+Server value: 
+Key not found
+Unable to get an username
+Unable to get an username
+Key not found
+Unable to get an server
+Unable to get an server
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+setting inputs from memory
+Server value: localhost:1488
+Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Unable to sign up. 400 Bad Request. User with such username already exists
+Unable to sign up. 400 Bad Request. User with such username already exists
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+SUGGESTIONS: [food casino cash random test test1 test2]
+Server value: localhost:1488
+setting inputs from memory
+Server value: localhost:1488
+Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Unable to sign up. 400 Bad Request. User with such username already exists
+Unable to sign up. 400 Bad Request. User with such username already exists
+Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Unable to get an server
+Unable to get an server
+Key not found
+Key not found
+Trying to access transaction types from Transaction Screen. Key not found
+TYPES: []
+SUGGESTIONS: []
+Unable to get an server
+Unable to get an server
+Server value: 
+Key not found
+Unable to get an username
+Unable to get an username
+Key not found
+Unable to get an server
+Unable to get an server
+Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]

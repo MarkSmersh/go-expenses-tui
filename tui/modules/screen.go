@@ -8,7 +8,9 @@ import (
 
 type Screen interface {
 	View() string
-	Update(tea.Msg) tea.Cmd
+	Update(tea.Msg) Cmd
 	Keys() help.KeyMap
 	GetTextInputs() []*textinput.Model
+	SetActive()
+	SetUnactive()
 }

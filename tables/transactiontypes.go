@@ -12,7 +12,7 @@ import (
 func TransactionTypesTable(conn *pgx.Conn) {
 	query := `create table if not exists transaction_types (
 		id BIGSERIAL PRIMARY KEY,
-		name varchar(64)
+		name varchar(64) UNIQUE
 	);`
 
 	_, err := conn.Exec(context.Background(), query)
