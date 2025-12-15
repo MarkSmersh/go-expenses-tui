@@ -3,9 +3,11 @@ package modules
 import tea "github.com/charmbracelet/bubbletea"
 
 type Focusable interface {
-	// View() string
 	Focus() tea.Cmd
 	Blur()
+	// TODO: the Click method is used once: for the button module. And so,
+	// it can be changed with the method Activate for the button, so Click method
+	// could be removed from the interface
 	Click()
 }
 
@@ -14,7 +16,7 @@ type FocusManager struct {
 	elements []Focusable
 }
 
-func CreateFocusManager(elements ...Focusable) FocusManager {
+func NewFocusManager(elements ...Focusable) FocusManager {
 	return FocusManager{
 		elements: elements,
 		focused:  0,
@@ -22,6 +24,10 @@ func CreateFocusManager(elements ...Focusable) FocusManager {
 }
 
 func (f *FocusManager) Set(cursor int) {
+	if len(f.elements) <= 0 {
+		return
+	}
+
 	if cursor > len(f.elements)-1 {
 		f.focused = 0
 	} else if cursor < 0 {

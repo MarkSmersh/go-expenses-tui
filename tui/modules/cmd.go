@@ -9,27 +9,27 @@ const (
 )
 
 type Cmd struct {
-	teaCmd    tea.Cmd
+	teaCmds   []tea.Cmd
 	screenCmd int
 }
 
 func NewCmd() Cmd {
 	return Cmd{
-		teaCmd:    nil,
+		teaCmds:   []tea.Cmd{},
 		screenCmd: 0,
 	}
 }
 
-func (c *Cmd) SetTea(teaCmd tea.Cmd) {
-	c.teaCmd = teaCmd
+func (c *Cmd) AddTea(teaCmd ...tea.Cmd) {
+	c.teaCmds = append(c.teaCmds, teaCmd...)
 }
 
 func (c *Cmd) SetScreen(screenCmd int) {
 	c.screenCmd = screenCmd
 }
 
-func (c Cmd) WithTea(teaCmd tea.Cmd) Cmd {
-	c.teaCmd = teaCmd
+func (c Cmd) WithTea(teaCmd ...tea.Cmd) Cmd {
+	c.teaCmds = teaCmd
 	return c
 }
 
@@ -38,8 +38,8 @@ func (c Cmd) WithScreen(screenCmd int) Cmd {
 	return c
 }
 
-func (c Cmd) GetTea() tea.Cmd {
-	return c.teaCmd
+func (c Cmd) GetTea() []tea.Cmd {
+	return c.teaCmds
 }
 
 func (c Cmd) GetScreen() int {

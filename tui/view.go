@@ -8,8 +8,8 @@ func (m Model) View() string {
 	help := m.Help.View(m.GetActiveScreen().Keys())
 
 	if !m.IsExclisive {
-		help += "\n\n" + m.Help.View(m.Keys)
+		help += "\n" + m.Help.View(m.Keys)
 	}
 
-	return fmt.Sprintf("%s\n\n%s", view, help)
+	return fmt.Sprintf("%s\n%s", view, help)
 }

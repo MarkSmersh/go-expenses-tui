@@ -3,14 +3,16 @@ package screens
 import (
 	"math"
 	"strconv"
+	"strings"
 
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/api"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/keys"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/modules"
+	"github.com/MarkSmersh/go-expenses-tui.git/tui/styles"
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/key"
-	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/charmbracelet/lipgloss"
 )
 
 var logger = modules.Logger{File: "app.log"}
@@ -18,6 +20,7 @@ var logger = modules.Logger{File: "app.log"}
 type TransactionScreen struct {
 	keys  keys.KeyMapTransactionScreen
 	focus modules.FocusManager
+	style lipgloss.Style
 
 	amount          modules.Input
 	transactionType modules.Input
@@ -32,54 +35,82 @@ func NewTransactionScreen() *TransactionScreen {
 	s := TransactionScreen{
 		keys:            keys.TransactionScreen,
 		amount:          modules.NewInput("Amount (required)", 32),
-		transactionType: modules.NewInput("Type of expense (write first letter to show suggestions)", 64).WithSuggestions(),
+		transactionType: modules.NewInput("Type of expense (type a letter)", 64).WithSuggestions(),
 		comment:         modules.NewInput("Comment", 128),
 
 		transactionTypes: []api.TransactionType{},
+
+		style: styles.Screen,
 	}
 
 	s.create = modules.NewButton("Create", s.createTransaction)
 
 	s.updateTransactionTypesAndSuggestions()
 
-	logger.Logf("SUGGESTIONS: %v", s.transactionType.TextInput().AvailableSuggestions())
-
-	s.focus = modules.CreateFocusManager(&s.amount, &s.transactionType, &s.comment, &s.create)
+	s.focus = modules.NewFocusManager(&s.amount, &s.transactionType, &s.comment, &s.create)
 
 	return &s
 }
 
 func (s TransactionScreen) View() string {
-	view := "TRANSACTION SCREEN"
+	// heigth and width withouth margins and borders
+	h := s.style.GetHeight() - 2
+	w := s.style.GetWidth() - 2
 
-	view += "\n\nCreate a new expense:"
+	titleStyle := styles.ScreenTitle.Width(w).Height(1)
 
-	view += "\n\n" + s.amount.View()
-	view += "\n\n" + s.transactionType.View()
+	inputStyle := lipgloss.NewStyle().Width(50).Height(2)
 
 	transactionType := s.transactionType.TextInput().Value()
 	suggestions := s.transactionType.TextInput().MatchedSuggestions()
 
-	if len(transactionType) > 0 && len(suggestions) > 0 && transactionType != suggestions[0] {
-		view += "\n"
+	suggestionsView := []string{}
 
-		for _, s := range suggestions {
-			view += "\n" + s
-		}
+	blockStyle := lipgloss.NewStyle().
+		Width(w).
+		Height(h-2).
+		Border(lipgloss.HiddenBorder()).
+		// Background(lipgloss.Color("4")).
+		Align(lipgloss.Center, lipgloss.Center)
 
-		if len(suggestions) <= 0 {
-			view += "No available suggestions"
+	centerStyle := lipgloss.NewStyle().
+		Width(50).
+		Align(lipgloss.Center, lipgloss.Center)
+
+	suggestionsStyle := lipgloss.NewStyle().
+		Width(50)
+
+	if len(transactionType) > 0 {
+		if len(suggestions) > 0 {
+			if transactionType != suggestions[0] || len(suggestions) > 1 {
+				for _, s := range suggestions {
+					suggestionsView = append(suggestionsView, s)
+				}
+			}
+		} else {
+			suggestionsView = append(suggestionsView, "No available suggestions")
 		}
 	}
 
-	view += "\n\n" + s.comment.View()
-	view += "\n\n" + s.create.View()
+	logger.Logf("SUGGESTIONS VIEW: %s", suggestionsView)
 
-	if len(s.message) > 0 {
-		view += " - " + s.message
-	}
-
-	return view
+	return s.style.Render(lipgloss.JoinVertical(
+		lipgloss.Top,
+		titleStyle.Render("TRANSACTION SCREEN"),
+		blockStyle.Render(
+			lipgloss.JoinVertical(
+				lipgloss.Top,
+				centerStyle.Render("Create a new expense:"),
+				"\n",
+				inputStyle.Render(s.amount.View()),
+				inputStyle.Render(s.transactionType.View()),
+				suggestionsStyle.Render(strings.Join(suggestionsView, "\n")),
+				inputStyle.Render(s.comment.View()),
+				centerStyle.Render(s.create.View()),
+			),
+		),
+		s.message,
+	))
 }
 
 func (s *TransactionScreen) Update(msg tea.Msg) modules.Cmd {
@@ -101,23 +132,21 @@ func (s *TransactionScreen) Update(msg tea.Msg) modules.Cmd {
 
 		s.focus.BlurAll()
 		s.focus.Focused().Focus()
+	case tea.WindowSizeMsg:
+		s.style = s.style.Height(msg.Height - 2 - 2).Width(msg.Width - 2)
 	}
+
+	cmd.AddTea(
+		s.amount.Update(msg),
+		s.transactionType.Update(msg),
+		s.comment.Update(msg),
+	)
 
 	return cmd
 }
 
 func (s TransactionScreen) Keys() help.KeyMap {
 	return s.keys
-}
-
-func (s *TransactionScreen) GetTextInputs() []*textinput.Model {
-	tis := []*textinput.Model{
-		s.amount.TextInput(),
-		s.transactionType.TextInput(),
-		s.comment.TextInput(),
-	}
-
-	return tis
 }
 
 func (s *TransactionScreen) SetActive() {
@@ -142,7 +171,15 @@ func (s *TransactionScreen) createTransaction() {
 		return
 	}
 
-	transactionTypeIndex := s.transactionType.TextInput().CurrentSuggestionIndex() + 1
+	transactionTypeIndex := -1
+
+	for _, tt := range s.transactionTypes {
+		if tt.Name == s.transactionType.TextInput().Value() {
+			transactionTypeIndex = tt.ID
+			break
+		}
+	}
+
 	comment := s.comment.TextInput().Value()
 
 	amount := int(math.Round(amountFloat * 100))
@@ -169,13 +206,12 @@ func (s *TransactionScreen) updateTransactionTypesAndSuggestions() {
 		// os.Exit(1)
 	}
 
-	logger.Logf("TYPES: %v", transactionTypes)
-
 	transactionTypeNames := []string{}
 
 	for _, tt := range transactionTypes {
 		transactionTypeNames = append(transactionTypeNames, tt.Name)
 	}
 
+	s.transactionTypes = transactionTypes
 	s.transactionType.TextInput().SetSuggestions(transactionTypeNames)
 }

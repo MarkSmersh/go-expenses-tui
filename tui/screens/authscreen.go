@@ -1,19 +1,23 @@
 package screens
 
 import (
+	"math/rand"
+	"strconv"
+
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/api"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/keys"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/modules"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/settings"
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/key"
-	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/charmbracelet/lipgloss"
 )
 
 type AuthScreen struct {
 	keys  keys.KeyMapAuthScreen
 	focus modules.FocusManager
+	style lipgloss.Style
 
 	server   modules.Input
 	user     modules.Input
@@ -33,12 +37,14 @@ func NewAuthScreen() *AuthScreen {
 		server:   modules.NewInput("e.x. localhost:1488", 39),
 		user:     modules.NewInput("your username", 64),
 		password: modules.NewInput("your password", 64).WithSecret(),
+		style: lipgloss.NewStyle().
+			Align(lipgloss.Center, lipgloss.Center),
 	}
 
 	screen.login = modules.NewButton("Login", screen.logIn)
 	screen.register = modules.NewButton("Register", screen.signUp)
 
-	screen.focus = modules.CreateFocusManager(
+	screen.focus = modules.NewFocusManager(
 		&screen.server,
 		&screen.user,
 		&screen.password,
@@ -50,19 +56,34 @@ func NewAuthScreen() *AuthScreen {
 }
 
 func (s AuthScreen) View() string {
-	view := `                                                                                   
-   mmm   mmmm         mmmmmm m    m mmmmm  mmmmmm mm   m  mmmm  mmmmmm  mmmm        
- m"   " m"  "m        #       #  #  #   "# #      #"m  # #"   " #      #"   "       
- #   mm #    #        #mmmmm   ##   #mmm#" #mmmmm # #m # "#mmm  #mmmmm "#mmm        
- #    # #    #        #       m""m  #      #      #  # #     "# #          "#       
-  "mmm"  #mm#         #mmmmm m"  "m #      #mmmmm #   ## "mmm#" #mmmmm "mmm#"       
-    `
+	titleStyle := lipgloss.NewStyle().
+		Align(lipgloss.Center, lipgloss.Center).
+		Foreground(
+			lipgloss.Color(
+				strconv.Itoa(int(rand.Float64() * 256)),
+			),
+		)
 
-	view += "\n\n" + s.server.View()
+	view := titleStyle.Render(`
+ _____ _____    _____ __ __ _____ _____ _____ _____ _____ _____
+|   __|     |  |   __|  |  |  _  |   __|   | |   __|   __|   __|
+|  |  |  |  |  |   __|-   -|   __|   __| | | |__   |   __|__   |
+|_____|_____|  |_____|__|__|__|  |_____|_|___|_____|_____|_____|
+	    `)
 
-	view += "\n\n" + s.user.View()
+	borderStyle := lipgloss.NewStyle().
+		Width(70).
+		Height(20).
+		Border(lipgloss.NormalBorder()).
+		Align(lipgloss.Center, lipgloss.Center)
 
-	view += "\n\n" + s.password.View()
+	inputStyle := lipgloss.NewStyle().Width(borderStyle.GetWidth() - 10)
+
+	view += "\n\n" + inputStyle.Render(s.server.View())
+
+	view += "\n\n" + inputStyle.Render(s.user.View())
+
+	view += "\n\n" + inputStyle.Render(s.password.View())
 
 	view += "\n\n" + s.login.View()
 
@@ -72,7 +93,9 @@ func (s AuthScreen) View() string {
 		view += "\n\n" + s.message
 	}
 
-	return view
+	return s.style.Render(
+		borderStyle.Render(view),
+	)
 }
 
 func (s *AuthScreen) Update(msg tea.Msg) modules.Cmd {
@@ -95,9 +118,18 @@ func (s *AuthScreen) Update(msg tea.Msg) modules.Cmd {
 			return cmd.WithTea(tea.Quit)
 		}
 
+	case tea.WindowSizeMsg:
+		s.style = s.style.Width(msg.Width).Height(msg.Height - 2)
+
 		s.focus.BlurAll()
 		s.focus.Focused().Focus()
 	}
+
+	cmd.AddTea(
+		s.server.Update(msg),
+		s.user.Update(msg),
+		s.password.Update(msg),
+	)
 
 	if s.isAuth {
 		s.isAuth = false
@@ -109,16 +141,6 @@ func (s *AuthScreen) Update(msg tea.Msg) modules.Cmd {
 
 func (s AuthScreen) Keys() help.KeyMap {
 	return s.keys
-}
-
-func (s *AuthScreen) GetTextInputs() []*textinput.Model {
-	tis := []*textinput.Model{
-		s.server.TextInput(),
-		s.user.TextInput(),
-		s.password.TextInput(),
-	}
-
-	return tis
 }
 
 func (s AuthScreen) SetActive() {

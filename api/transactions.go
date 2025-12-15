@@ -2,6 +2,7 @@ package api
 
 import (
 	"encoding/json"
+	"io"
 	"net/http"
 	"strconv"
 	"strings"
@@ -43,6 +44,8 @@ func (s *Server) TransactionsRouter(w http.ResponseWriter, r *http.Request) {
 		s.TransactionsPut(w, r, username)
 	case "DELETE":
 		s.TransactionsDelete(w, r, username)
+	case "POST":
+		s.TransactionsPost(w, r, username)
 	}
 }
 
@@ -115,4 +118,40 @@ func (s *Server) TransactionsDelete(w http.ResponseWriter, r *http.Request, user
 
 	w.WriteHeader(200)
 	w.Write([]byte("Transaction has been succesfully deleted"))
+}
+
+type Transaction struct {
+	Count int `json:"count"`
+	From  int `json:"from"`
+	To    int `json:"to"`
+	Type  int `json:"type"`
+}
+
+func (s Server) TransactionsPost(w http.ResponseWriter, r *http.Request, username string) {
+	body := Transaction{}
+
+	transaction := models.NewTransaction(s.Conn)
+
+	data, _ := io.ReadAll(r.Body)
+
+	json.Unmarshal(data, &body)
+
+	if body.Count < 1 {
+		w.WriteHeader(400)
+		w.Write([]byte("Count field value cannot be less than 1"))
+		return
+	}
+
+	transactions, err := transaction.Find(body.Count, body.From, body.To, body.Type, username)
+
+	if err != nil {
+		w.WriteHeader(err.Code())
+		w.Write(err.ErrorBytes())
+		return
+	}
+
+	json, _ := json.Marshal(transactions)
+
+	w.WriteHeader(200)
+	w.Write(json)
 }

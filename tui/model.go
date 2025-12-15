@@ -26,6 +26,7 @@ func CreateModel() Model {
 	m := Model{
 		Screens: modules.NewScreenManager(
 			screens.NewTransactionScreen(),
+			screens.NewManageScreen(),
 			screens.NewSettingsScreen(),
 		),
 		ExclusiveScreens: modules.NewScreenManager(

@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  go-expenses-server:
+      environment:
+      - DB_URI=postgres://ss:12345678@127.0.0.1:5432/go_expenses
+      - JWT_SIGN_TOKEN=qwertyuiopasdfghjklzxcvbnmqwerty
+      image: go-expenses-server
+      ports:
+        - 1488:1488
+      restart: unless-stopped

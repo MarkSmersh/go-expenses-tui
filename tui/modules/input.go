@@ -52,6 +52,12 @@ func (c Input) WithSuggestions() Input {
 	return c
 }
 
+func (c *Input) Update(msg tea.Msg) tea.Cmd {
+	var cmd tea.Cmd
+	c.textInput, cmd = c.textInput.Update(msg)
+	return cmd
+}
+
 func DefaultTextInput() textinput.Model {
 	t := textinput.New()
 	t.Placeholder = "Placeholder"

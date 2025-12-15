@@ -6,15 +6,17 @@ import (
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/keys"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/modules"
 	"github.com/MarkSmersh/go-expenses-tui.git/tui/settings"
+	"github.com/MarkSmersh/go-expenses-tui.git/tui/styles"
 	"github.com/charmbracelet/bubbles/help"
 	"github.com/charmbracelet/bubbles/key"
-	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/charmbracelet/lipgloss"
 )
 
 type SettingsScreen struct {
 	keys  keys.KeyMapTransactionScreen
 	focus modules.FocusManager
+	style lipgloss.Style
 
 	server   modules.Input
 	user     modules.Input
@@ -35,6 +37,7 @@ func NewSettingsScreen() *SettingsScreen {
 		server:   modules.NewInput("e.x. localhost:1488", 39),
 		user:     modules.NewInput("your username", 64),
 		password: modules.NewInput("your password", 64).WithSecret(),
+		style:    styles.Screen,
 	}
 
 	screen.save = modules.NewButton("Save", screen.saveSettings)
@@ -42,7 +45,7 @@ func NewSettingsScreen() *SettingsScreen {
 
 	screen.setInputsFromMemory()
 
-	screen.focus = modules.CreateFocusManager(
+	screen.focus = modules.NewFocusManager(
 		&screen.server,
 		&screen.user,
 		&screen.password,
@@ -54,25 +57,45 @@ func NewSettingsScreen() *SettingsScreen {
 }
 
 func (s SettingsScreen) View() string {
-	view := "SETTINGS SCREEN"
+	h := s.style.GetHeight() - 2
+	w := s.style.GetWidth() - 2
 
-	view += "\n\nCurrent user: " + s.username
+	titleStyle := styles.ScreenTitle.Width(w).Height(1)
 
-	view += "\n\n" + s.server.View()
+	inputStyle := lipgloss.NewStyle().Width(50).Height(2)
 
-	view += "\n\n" + s.user.View()
+	centerStyle := lipgloss.NewStyle().
+		Width(50).
+		Align(lipgloss.Center, lipgloss.Center)
 
-	view += "\n\n" + s.password.View()
+	blockStyle := lipgloss.NewStyle().
+		Width(w).
+		Height(h-2).
+		Border(lipgloss.HiddenBorder()).
+		Align(lipgloss.Center, lipgloss.Center)
 
-	view += "\n\n" + s.save.View()
-
-	if len(s.message) > 0 {
-		view += " - " + s.message
-	}
-
-	view += "\n\n" + s.reset.View()
-
-	return view
+	return s.style.Render(lipgloss.JoinVertical(
+		lipgloss.Top,
+		titleStyle.Render("SETTINGS SCREEN"),
+		blockStyle.Render(
+			lipgloss.JoinVertical(
+				lipgloss.Top,
+				centerStyle.Render("Current user: "+s.username),
+				"\n",
+				inputStyle.Render(s.server.View()),
+				inputStyle.Render(s.user.View()),
+				inputStyle.Render(s.password.View()),
+				centerStyle.Render(
+					lipgloss.JoinVertical(
+						lipgloss.Top,
+						s.save.View()+"\n",
+						s.reset.View(),
+					),
+				),
+			),
+		),
+		s.message,
+	))
 }
 
 func (s *SettingsScreen) Update(msg tea.Msg) modules.Cmd {
@@ -95,7 +118,15 @@ func (s *SettingsScreen) Update(msg tea.Msg) modules.Cmd {
 
 		s.focus.BlurAll()
 		s.focus.Focused().Focus()
+	case tea.WindowSizeMsg:
+		s.style = s.style.Height(msg.Height - 2 - 2).Width(msg.Width - 2)
 	}
+
+	cmd.AddTea(
+		s.server.Update(msg),
+		s.user.Update(msg),
+		s.password.Update(msg),
+	)
 
 	if s.toReset {
 		s.toReset = false
@@ -107,16 +138,6 @@ func (s *SettingsScreen) Update(msg tea.Msg) modules.Cmd {
 
 func (s SettingsScreen) Keys() help.KeyMap {
 	return s.keys
-}
-
-func (s *SettingsScreen) GetTextInputs() []*textinput.Model {
-	tis := []*textinput.Model{
-		s.server.TextInput(),
-		s.user.TextInput(),
-		s.password.TextInput(),
-	}
-
-	return tis
 }
 
 func (s *SettingsScreen) SetActive() {

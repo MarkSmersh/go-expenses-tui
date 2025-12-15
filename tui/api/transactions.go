@@ -76,3 +76,72 @@ func CreateTransaction(amount int, transactionType int, comment string) error {
 
 	return nil
 }
+
+type TransactionExtended struct {
+	Transaction
+	ID        int    `json:"id"`
+	CreatedAt int    `json:"created_at"`
+	TypeName  string `json:"type_name"`
+}
+
+type GetTransactionsReq struct {
+	Count int `json:"count"`
+	From  int `json:"from"`
+	To    int `json:"to"`
+	Type  int `json:"type"`
+}
+
+func GetTransactions(count int, from int, to int, transactionType int) ([]TransactionExtended, error) {
+	data := GetTransactionsReq{
+		Count: count,
+		From:  from,
+		To:    to,
+		Type:  transactionType,
+	}
+
+	json, _ := json.Marshal(data)
+
+	body := []TransactionExtended{}
+
+	res, err := Request(
+		"POST",
+		"/transactions/",
+		json,
+	)
+
+	if err != nil {
+		logger.Logf(
+			"Unable to get transactions. %s",
+			err.Error(),
+		)
+		return body, err
+	}
+
+	res.Unmarshall(&body)
+
+	return body, nil
+}
+
+func DeleteTransaction(id int) error {
+	res, err := Request(
+		"DELETE",
+		fmt.Sprintf("/transactions/%d", id),
+		nil,
+	)
+
+	if err != nil {
+		logger.Logf("Unable to delete the transaction. %s", err.Error())
+		return err
+	}
+
+	if !res.IsStatusSuccess() {
+		err = errors.New(
+			fmt.Sprintf("%s. %s", res.Res().Status, string(res.Body())),
+		)
+
+		logger.Logf("Unable to delete the transaction. %s", err.Error())
+		return err
+	}
+
+	return nil
+}

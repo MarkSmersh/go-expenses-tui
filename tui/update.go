@@ -17,16 +17,15 @@ func (m Model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 				return m, tea.Quit
 			case key.Matches(msg, m.Keys.PrevScreen):
 				m.Screens.PrevScreen()
-				return m, nil
+				return m, tea.WindowSize()
 			case key.Matches(msg, m.Keys.NextScreen):
 				m.Screens.NextScreen()
-				return m, nil
+				return m, tea.WindowSize()
 			}
 		}
 	}
 
 	screenCmd := m.GetActiveScreen().Update(msg)
-	textInputsCmd := m.UpdateTextInputs(msg)
 
 	switch screenCmd.GetScreen() {
 	case modules.CmdExclusiveOff:
@@ -35,7 +34,7 @@ func (m Model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 		m.SetExclusiveScreens()
 	}
 
-	cmds = append(cmds, screenCmd.GetTea(), textInputsCmd)
+	cmds = append(cmds, screenCmd.GetTea()...)
 
 	return m, tea.Batch(cmds...)
 }

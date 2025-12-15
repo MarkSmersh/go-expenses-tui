@@ -11,7 +11,6 @@ import (
 
 func main() {
 	model := tui.CreateModel()
-	model.InitTextInputsFromScreens()
 
 	p := tea.NewProgram(model, tea.WithAltScreen())
 

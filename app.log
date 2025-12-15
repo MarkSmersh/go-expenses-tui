@@ -1,10 +1,3293 @@
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 19 19 69 11 15 1 1]
+VALUES: [139 19 19 69 11 15 1 1]
+VALUES: [139 19 19 69 11 15 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [19 69 11 139 15 1 1 19]
+VALUES: [19 69 11 139 15 1 1 19]
+VALUES: [19 69 11 139 15 1 1 19]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15 11 1 1 139 19 19 69]
+VALUES: [15 11 1 1 139 19 19 69]
+VALUES: [15 11 1 1 139 19 19 69]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [19 69 15 1 139 19 11 1]
+VALUES: [19 69 15 1 139 19 11 1]
+VALUES: [19 69 15 1 139 19 11 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [69 11 139 19 19 15 1 1]
+VALUES: [69 11 139 19 19 15 1 1]
+VALUES: [69 11 139 19 19 15 1 1]
+VALUES: [69 11 139 19 19 15 1 1]
+VALUES: [69 11 139 19 19 15 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+VALUES: [1 1 11 15 19 19 69 139]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [19 19 15 11 1 1]
+VALUES: [19 19 15 11 1 1]
+space
+VALUES: [19 15 11 1 1]
+VALUES: [19 15 11 1 1]
+space
+VALUES: [15 11 1 1]
+VALUES: [15 11 1 1]
+space
+VALUES: [11 1 1]
+VALUES: [11 1 1]
+space
+VALUES: [1 1]
+VALUES: [1 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+space
+VALUES: [1]
+space
+space
+VALUES: [1]
+VALUES: [1]
+VALUES: [1]
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [19 1]
+space
+VALUES: [1]
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [69 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [139 1]
+VALUES: [139 1]
+VALUES: [139 1]
+VALUES: [139 1]
+VALUES: [139 1]
+VALUES: [139 1]
+VALUES: [139 1]
+space
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+space
+VALUES: [139 69 1 1]
+VALUES: [139 69 1 1]
+space
+VALUES: [139 69 19 1 1]
+space
+VALUES: [139 69 1 1]
+VALUES: [139 69 1 1]
+VALUES: [139 69 1 1]
+space
+VALUES: [139 69 19 1 1]
+space
+VALUES: [139 69 1 1]
+VALUES: [139 69 1 1]
+space
+VALUES: [139 1 1]
+VALUES: [139 1 1]
+space
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+VALUES: [1 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+space
+VALUES: [1]
+space
+space
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [1.2666666666666666 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+space
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [1.2666666666666666 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+space
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [11 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+VALUES: [139 100 69 19 19 15 11 1 1]
+fromUnix: 1763161200
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [10 10 6.9 1.9 1.9 1 1]
+VALUES: [10 10 6.9 1.9 1.9 1 1]
+VALUES: [10 10 6.9 1.9 1.9 1 1]
+VALUES: [10 10 6.9 1.9 1.9 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [5.2631578947368425 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [5.2631578947368425 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [5.2631578947368425 5.2631578947368425 3.6315789473684212 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+fromUnix: 1763161200
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+fromUnix: 1763074800
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+fromUnix: 1763161200
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+VALUES: [30 10 6.9 1.9 1.9 1 1]
+fromUnix: 1763074800
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+VALUES: [30 10.4 6.9 1.9 1.9 1 1]
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+space
+VALUES: [5.2631578947368425 3.6315789473684212 1 1]
+space
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+space
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1]
+space
+VALUES: [4.3478260869565215 1.4492753623188406 1]
+VALUES: [4.3478260869565215 1.4492753623188406 1]
+space
+VALUES: [3 1]
+VALUES: [3 1]
+space
+VALUES: [1]
+VALUES: [1]
+space
+VALUES: [4.3478260869565215 1]
+VALUES: [4.3478260869565215 1]
+space
+VALUES: [4.3478260869565215 1.4492753623188406 1]
+VALUES: [4.3478260869565215 1.4492753623188406 1]
+VALUES: [4.3478260869565215 1.4492753623188406 1]
+space
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1]
+space
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+VALUES: [15.789473684210526 5.2631578947368425 3.6315789473684212 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [19 19 15 11 1 1]
+VALUES: [19 19 15 11 1 1]
+space
+VALUES: [19 15 11 1 1]
+VALUES: [19 15 11 1 1]
+space
+VALUES: [15 11 1 1]
+VALUES: [15 11 1 1]
+space
+VALUES: [11 1 1]
+VALUES: [11 1 1]
+space
+VALUES: [1 1]
+space
+VALUES: [11 1 1]
+VALUES: [11 1 1]
+space
+VALUES: [15 11 1 1]
+VALUES: [15 11 1 1]
+space
+VALUES: [19 15 11 1 1]
+VALUES: [19 15 11 1 1]
+space
+VALUES: [19 19 15 11 1 1]
+VALUES: [19 19 15 11 1 1]
+space
+VALUES: [69 19 19 15 11 1 1]
+VALUES: [69 19 19 15 11 1 1]
+space
+VALUES: [139 69 19 19 15 11 1 1]
+VALUES: [139 69 19 19 15 11 1 1]
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+VALUES: [300 139 69 19 19 15 11 1 1]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 181
+WIDTH: 20
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 181
+WIDTH: 20
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 349
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 349
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 349
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 349
+WIDTH: 76
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 16
+WIDTH: 20
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 16
+WIDTH: 20
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 69 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [300 139 69 19 19 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [300 139 69 19 19 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [15.789473684210526 7.315789473684211 3.6315789473684212 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [15.789473684210526 7.315789473684211 3.6315789473684212 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [300 139 69 19 19 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 11 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 11 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+space
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+space
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+space
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+VALUES: [11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+space
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+VALUES: [1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+space
+VALUES: [1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+VALUES: [1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+VALUES: [1 1]
+LEN OF CHARTBARPART: 76
+WIDTH: 76
+space
+VALUES: [11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+VALUES: [11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+space
+VALUES: [15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+VALUES: [19 19 15 11 1 1]
+LEN OF CHARTBARPART: 73
+WIDTH: 76
+space
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+space
+VALUES: [139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 74
+WIDTH: 76
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+VALUES: [300 139 69 19 19 15 11 1 1]
+LEN OF CHARTBARPART: 72
+WIDTH: 76
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+RESET
+UNMARK ALL
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1762988400
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763161200
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1763161199
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763161200
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763161200
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763161200
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+UNMARK ALL
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+space
+space
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+space
+space
+RESET
+space
+space
+space
+space
+space
+space
+fromUnix: 1763161200
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+space
+space
+space
+RESET
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+fromUnix: 1763161200
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+space
+space
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+space
+space
+space
+space
+space
+space
+space
+space
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Delete "https://localhost:1488/transactions/228": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Delete "https://localhost:1488/transactions/227": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Unable to create an transaction. 400 Bad Request. Invalid amount for transaction. The value should be more than 0
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+UNMARK ALL
+RESET
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+RESET
+UNMARK ALL
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+fromUnix: 1763161200
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1763161199
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763247600
+toUnix: 1763333999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1762988400
+toUnix: 1763074799
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1763074799
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1762988400
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1762988400
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+food
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+SUGGESTIONS VIEW: 
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: [random]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+SUGGESTIONS VIEW: [test test1 test2]
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+space
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+space
+space
+UNMARK ALL
+space
+Delete "https://localhost:1488/transactions/234": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Delete "https://localhost:1488/transactions/233": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Delete "https://localhost:1488/transactions/232": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+space
+space
+space
+Delete "https://localhost:1488/transactions/235": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1764802800
+toUnix: 1764889199
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763506800
+toUnix: 1764284399
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763593200
+toUnix: 1763679599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763679600
+toUnix: 1763765999
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763766000
+toUnix: 1763852399
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1764284399
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1764198000
+toUnix: 1764284399
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+fromUnix: 1764198000
+toUnix: 1764284399
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1763161199
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+fromUnix: 1763074800
+toUnix: 1763247599
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+UNMARK ALL
+space
+space
+space
+space
+space
+space
+space
+space
+space
+space
+fromUnix: 1736722800
+toUnix: 1763161199
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+space
+space
+space
+space
+UNMARK ALL
+space
+space
+space
+space
+space
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
 Unable to get an server
 Unable to get an server
 Key not found
 Key not found
 Trying to access transaction types from Transaction Screen. Key not found
-TYPES: []
-SUGGESTIONS: []
+Unable to get an server
+Unable to get an server
+Server value: 
+Key not found
+Unable to get an username
+Unable to get an username
+Key not found
+Unable to get an server
+Unable to get an server
+Post "https://localhost:1488/auth/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/auth/": dial tcp [::1]:1488: connect: connection refused
+Post "http://localhost:1488/auth/": dial tcp [::1]:1488: connect: connection refused
+Post "http://localhost:1488/auth/": dial tcp [::1]:1488: connect: connection refused
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+SUGGESTIONS VIEW: [No available suggestions]
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Unable to get an server
+Unable to get an server
+Key not found
+Key not found
+Trying to access transaction types from Transaction Screen. Key not found
 Unable to get an server
 Unable to get an server
 Server value: 
@@ -16,58 +3299,612 @@ Unable to get an server
 Unable to get an server
 Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
 Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
 setting inputs from memory
 Server value: localhost:1488
 Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-setting inputs from memory
-Server value: localhost:1488
-Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
-setting inputs from memory
-Server value: localhost:1488
-Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-Unable to sign up. 400 Bad Request. User with such username already exists
-Unable to sign up. 400 Bad Request. User with such username already exists
 Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Unable to log in into. 400 Bad Request. Wrong credentials
+Unable to log in into. 400 Bad Request. Wrong credentials
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: [food]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Put "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Delete "https://localhost:1488/transactions/237": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+setting inputs from memory
+Server value: localhost:1488
+Post "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
 setting inputs from memory
 Server value: localhost:1488
 Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
 setting inputs from memory
 Server value: localhost:1488
-Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
-SUGGESTIONS: [food casino cash random test test1 test2]
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
 Server value: localhost:1488
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
 setting inputs from memory
 Server value: localhost:1488
-Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-Unable to sign up. 400 Bad Request. User with such username already exists
-Unable to sign up. 400 Bad Request. User with such username already exists
-Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
 setting inputs from memory
 Server value: localhost:1488
-Unable to get an server
-Unable to get an server
-Key not found
-Key not found
-Trying to access transaction types from Transaction Screen. Key not found
-TYPES: []
-SUGGESTIONS: []
-Unable to get an server
-Unable to get an server
-Server value: 
-Key not found
-Unable to get an username
-Unable to get an username
-Key not found
-Unable to get an server
-Unable to get an server
-Put "https://localhost:1488/auth/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]
+Get "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Trying to access transaction types from Transaction Screen. Get "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+SUGGESTIONS VIEW: []
+Post "https://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused. Trying to connect with HTTP
+Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
+Unable to get transactions. Post "http://localhost:1488/transactions/": dial tcp [::1]:1488: connect: connection refused
 setting inputs from memory
 Server value: localhost:1488
-Get "https://localhost:1488/transactions/": http: server gave HTTP response to HTTPS client. Trying to connect with HTTP
-TYPES: [{1 food} {2 casino} {3 cash} {4 random} {5 test} {6 test1} {7 test2}]

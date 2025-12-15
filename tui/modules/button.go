@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/charmbracelet/lipgloss"
 )
 
 type Button struct {
@@ -22,7 +23,7 @@ func NewButton(text string, onClick func()) Button {
 
 func (b *Button) View() string {
 	if b.focused {
-		return fmt.Sprintf("[ %s ]", b.text)
+		return lipgloss.NewStyle().Bold(true).Render(fmt.Sprintf("[ %s ]", b.text))
 	} else {
 		return fmt.Sprintf("  %s  ", b.text)
 	}
