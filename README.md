@@ -8,7 +8,7 @@ Aby rozpocząć pracę z aplikacją jest potrzebny serwer i sama aplikacja.
 1. Server może być skompilowany za pomocą komandy:
 
 ```
-go run ./cmd/server/main.go
+go build -o server ./cmd/server/main.go
 ```
 
 Po kompilacji skompiluje się plik o nazwie `server(.exe)`
@@ -23,10 +23,10 @@ docker run -ti -p 1488:1488 go-expenses-server
 2. Aplikacja kompiluje się za pomocą:
 
 ```
-go run ./cmd/tui/main.go
+go build -o app ./cmd/tui/main.go
 ```
 
-Po kompilacji stworzy sie aplikacja o nazwie `tui(.exe)`
+Po kompilacji stworzy sie aplikacja o nazwie `app(.exe)`
 
 ### Konfiguracja
 
